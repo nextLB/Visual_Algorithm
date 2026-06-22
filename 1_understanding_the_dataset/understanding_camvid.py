@@ -71,7 +71,7 @@ if __name__ == '__main__':
     # 以训练数据集为例，进行加载与分析
     trainImagePath = os.path.join(READ_BASE_DATA_DIR_PATH, TRAIN_DIR)
     imageFiles = sorted(os.listdir(trainImagePath))
-
+    print(imageFiles)
     # 逐张加载与展示图像与标签数据等
     for singleImageFile in imageFiles:
         baseName = os.path.splitext(singleImageFile)[0]
