@@ -1,7 +1,7 @@
 # 视觉算法 (Give me a picture or a video, and I’ll tell you what it is.)
 
 
-## 理解数据集 （understanding_the_dataset）
+## understanding_the_dataset
 
     understading_camvid.py      理解与熟悉camvid数据集
 
@@ -20,7 +20,7 @@
 > 型的小样本工业场景数据集，用于验证算法在数据有限情况下的性能。
 
 
-## 图像视频，那是什么  (picture_video_what_it_is)
+## picture_video_what_it_is
     
 网站搭建与开发
 
