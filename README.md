@@ -1,7 +1,7 @@
 # 视觉算法
 
 
-# 1、理解数据集 （1_understanding_the_dataset）
+# 理解数据集 （understanding_the_dataset）
 
     understading_camvid.py      理解与熟悉camvid数据集
 
@@ -17,5 +17,5 @@
 
 
 
-
+# 给我一张图像或者一段视频，我会告诉你那是什么  (Give me a picture or a video, and I’ll tell you what it is.)
     
