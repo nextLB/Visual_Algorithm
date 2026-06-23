@@ -1,7 +1,7 @@
-# 视觉算法
+# 视觉算法 (Give me a picture or a video, and I’ll tell you what it is.)
 
 
-# 理解数据集 （understanding_the_dataset）
+## 理解数据集 （understanding_the_dataset）
 
     understading_camvid.py      理解与熟悉camvid数据集
 
@@ -15,7 +15,14 @@
 
     understanding_NEU_YOLO.py   理解与熟悉NEU YOLO数据集
 
+> NEU-DET 是由东北大学发布并维护的，专为智能制造领域中金属表面质量检测算法的研究与优化而构建的基准数据集。
+> 它专注于热轧钢带表面，包含了6种最常见的典型表面缺陷。由于缺陷样本规模相对较小（共1800张），它常被用作典
+> 型的小样本工业场景数据集，用于验证算法在数据有限情况下的性能。
 
 
-# 给我一张图像或者一段视频，我会告诉你那是什么  (Give me a picture or a video, and I’ll tell you what it is.)
+## 图像视频，那是什么  (picture_video_what_it_is)
     
+
+
+
+
