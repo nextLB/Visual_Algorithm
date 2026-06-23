@@ -22,6 +22,20 @@
 
 ## 图像视频，那是什么  (picture_video_what_it_is)
     
+网站搭建与开发
+
+简介如下
+
+    python version: 3.11.15
+    django version: 5.2.14
+    在visual_algorithm_website文件夹下有文件夹如下
+    visual_algorithm_website这个是根应用文件夹，是使用django-admin startproject visual_algorithm_website .这个命令创建出来的
+    main_interface这个是具体应用的一个文件夹，是使用python ./manage.py startapp main_interface 这个命令创建出来的
+
+
+
+
+核心算法研究与实验
 
 
 
